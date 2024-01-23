@@ -1,0 +1,1 @@
+export const data = ['Apple', 'Mango','avocat'];
